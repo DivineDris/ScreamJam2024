@@ -6,7 +6,7 @@ Made for the Scream Jam 10/2024. https://itch.io/jam/scream-jam-2024
 <itch io account> Gameplay programming.
 GhostOrchidea https://ghostorchidea.itch.io/ Sound and narrative design.
 pixelopal https://pixelopal.itch.io/ 3D art and UI programming.
-
+DivineDris https://divinedris.itch.io/ game logic programming.
 -Licenses-
 
 HospitalGame uses Unreal® Engine. Unreal® is a trademark or registered trademark of Epic Games, Inc. in the United States of America and elsewhere. Unreal® Engine, Copyright 1998 – 2024, Epic Games, Inc. All rights reserved.
